@@ -1,6 +1,4 @@
 
-* [首頁](/)
-
 * [概述](pages/00_intro/)
 * [需求規格](pages/01_requirment/)
 * [頁面功能與操作邏輯](pages/02_function/)
